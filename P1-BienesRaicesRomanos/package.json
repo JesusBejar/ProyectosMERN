@@ -1,0 +1,30 @@
+{
+  "name": "bienesraices",
+  "version": "1.0.0",
+  "description": "sitio de bienes raices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesusBejar/ProyectosMERN.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Express",
+    "React",
+    "MongoDB",
+    "MVC"
+  ],
+  "author": "Jesus Israel Bejar II",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "react": "^18.3.1"
+  },
+  "bugs": {
+    "url": "https://github.com/JesusBejar/ProyectosMERN/issues"
+  },
+  "homepage": "https://github.com/JesusBejar/ProyectosMERN#readme"
+}
